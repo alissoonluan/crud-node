@@ -7,9 +7,9 @@ module.exports = {
       MYSQL: {
         database: 'node',
         host: 'localhost',
-        port: '8081',
+        port: '3306',
         user: 'root',
-        password: '1234'
+        password: ''
       }
     }
   };
